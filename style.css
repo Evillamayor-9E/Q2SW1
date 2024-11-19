@@ -1,0 +1,31 @@
+Body {
+	background-color: #5e548e;
+}
+.container {
+	background-color: #669bbc;
+	color: #231942;
+  	font-family: "Fira Sans", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+  	margin-top: 50px;
+  	padding: 15px;
+  	border-inline: 20px;
+  	border-radius: 10px;
+}
+
+img {
+	width: 230px;
+	box-shadow: 10px 10px 48px 13px rgba(0,0,0,0.44);
+
+}
+
+button {
+	background-color: #5e548e;
+	color: whitesmoke;
+	font-family: "Fira Sans", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+  	width: 250px;
+  	margin-left: 225px;
+  	margin-top: 15px;
+}
